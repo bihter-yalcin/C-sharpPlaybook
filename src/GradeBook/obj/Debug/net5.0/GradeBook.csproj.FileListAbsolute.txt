@@ -1,0 +1,15 @@
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/bihteryalcin/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/bihteryalcin/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
