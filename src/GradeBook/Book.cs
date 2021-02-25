@@ -5,22 +5,21 @@ namespace GradeBook{
     {
     public Book(string name){
     grades=new List<double>();
-    this.name=name;
-      
-    }
-    List<double> grades;
-private string name;
-         public string Name{
-             get{
-                 return name;
-                  }
-                  
-                set{
-                    if(value!="hell"){name=value;}
-                 
-                  }  }
-         int s;
+    Name=name;
 
+   unchangable="but_changed"; //we can only change our readonly in constructor 
+    }
+    readonly string unchangable="unchangable";
+    //unchangable="jkk"; this won't work 
+    List<double> grades;
+
+    public string Name{get;  set;} //adı konulduktan sonra değiştirilemez
+//  public string Name{get; private set;} 
+public void readonlyy(string hello){
+    hello=unchangable;
+    System.Console.WriteLine(hello);
+
+}
  public  void AddGrade(double grade){
   
 if(grade>0 && grade<=100){

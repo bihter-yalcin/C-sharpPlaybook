@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+//do not forget to look at events
 namespace GradeBook
 {
    
@@ -12,9 +12,9 @@ namespace GradeBook
 var id =Console.ReadLine();
 Book book= givemestudentId(id);
 System.Console.WriteLine(book.Name);
-book.Name="hell";
-System.Console.WriteLine(book.Name);
 
+System.Console.WriteLine(book.Name);
+book.readonlyy("k");
  
  while(true){
  System.Console.WriteLine("Enter Grades");
